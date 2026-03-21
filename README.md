@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="75" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&repeat=false&width=435&lines=Reginaldo+Ytalo+F%C3%A9lix+Mota"  />
+  <img height="200" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&repeat=false&width=435&lines=Reginaldo+Ytalo+F%C3%A9lix+Mota"  />
 </div>
 
 ###
