@@ -1,8 +1,10 @@
 <div align="left">
-  <img height="200" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&repeat=false&width=435&lines=Reginaldo+Ytalo+F%C3%A9lix+Mota"  />
+  <img height="120" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&repeat=false&width=435&lines=Reginaldo+Ytalo+F%C3%A9lix+Mota"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YtalloXD.YtalloXD&right_color=deepskyblue"  />
@@ -10,11 +12,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">💫 About me:</h2>
 
 ###
 
-<h4 align="left">- 😎 I'm from Brazil, Fortaleza/CE.<br><br>- 🔭 I’m currently graduating in IT Management.<br>- ⚡ In my free time I study other interesting technologies, and have fun playing games.</h4>
+<h4 align="left">- 😎 Speaking directly from Brazil.<br><br>- 🔭 I’m currently graduating in IT Management.<br>- ⚡ In my free time I study other interesting technologies, and have fun playing games.</h4>
 
 ###
 
@@ -23,9 +27,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="68" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="40" alt="gmail logo"  />
+  <a href="https://linkedin.com/in/reginaldo-ytalo-felix-mota" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/ytalo.felix" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="68" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:r.ytalofelix11@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
