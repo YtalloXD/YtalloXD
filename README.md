@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">- 😎 Coming directly from Brazil.<br><br>- 🔭 I’m currently graduating in IT Management.<br>- ⚡ In my free time I study other interesting technologies, and have fun playing games.</h4>
+<h4 align="left">- 😎 Coming directly from Brazil.<br>- 🔭 I’m currently graduating in IT Management.<br>- ⚡ In my free time I study other interesting technologies, and have fun playing games.</h4>
 
 ###
 
