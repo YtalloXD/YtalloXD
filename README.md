@@ -21,9 +21,6 @@
   <a href="https://linkedin.com/in/reginaldo-ytalo-felix-mota" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/ytalo.felix" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="68" height="40" alt="instagram logo"  />
-  </a>
   <a href="mailto:r.ytalofelix11@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="40" alt="gmail logo"  />
   </a>
